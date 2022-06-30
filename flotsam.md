@@ -21,3 +21,5 @@ Please run the following code
 `goto somewhere;`
 
 ![Image](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/blackhole.png?itok=THJrwcHP)
+
+Typing in the next line gives instant results
